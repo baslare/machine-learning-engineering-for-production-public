@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-data-validation
+scikit-learn
+tensorflow_metadata
+jupyterlab
+protobuf==3.20.*
